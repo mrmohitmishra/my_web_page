@@ -1,0 +1,23 @@
+body {
+  background-color: #E9D5CA;
+  font-family: serif;
+  color: #363062
+}
+
+hr {
+  background-color: white;
+  color: white;
+  border-style: none;
+  height: 2px;
+}
+
+h1{
+  color: #4D4C7D;
+}
+h3{
+  color: #4D4C7D;
+}
+
+a{
+color:  #827397;
+}
